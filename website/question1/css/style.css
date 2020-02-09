@@ -1,0 +1,42 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: century Gothic;
+}
+header{
+	background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(../logo.jpg);
+	height: 100vh;
+	background-size: cover;
+	background-position: center;
+}
+ h1{
+	color: #fff;
+	font-size: 70px;
+}
+.head{
+	position: absolute;
+	top: 20%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+}
+h3{
+	color: #080200;
+	font-size:30px;
+}
+.main{
+	position: absolute;
+	top: 40%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+
+}
+.opt{
+	position: absolute;
+	top: 60%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+}
+h5{
+	color:#F24005;
+	font-size:25px;
+}
